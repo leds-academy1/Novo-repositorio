@@ -1,1 +1,3 @@
 Esse arquivo faz parte da branch nova-atualizacao
+
+Merge do tipo Fast Foward
