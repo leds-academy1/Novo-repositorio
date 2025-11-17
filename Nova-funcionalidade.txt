@@ -1,0 +1,1 @@
+Criamos o arquivo que resolve a issue.
